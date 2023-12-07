@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "180246419707",
+    "firebase_url": "https://userregistration-1f3d7-default-rtdb.firebaseio.com",
+    "project_id": "userregistration-1f3d7",
+    "storage_bucket": "userregistration-1f3d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180246419707:android:eb83090de24e4583c7b85e",
+        "android_client_info": {
+          "package_name": "com.nts.testingfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqf1kBEfiUWpPETjeVi52sFATMQN5eJuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180246419707:android:f4acbb25cd1a2566c7b85e",
+        "android_client_info": {
+          "package_name": "com.nts.userregistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqf1kBEfiUWpPETjeVi52sFATMQN5eJuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
